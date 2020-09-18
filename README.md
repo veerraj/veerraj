@@ -13,27 +13,7 @@
 - ⚡ Fun fact: I spent my most of time to watching web series.
 <br/>
 
-## follow me at...
-<a href="https://www.linkedin.com/in/rajveer-choudhary-287706178/">
-  <img style="color:skyblue" align="left" alt="Rajveers's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-<a href="https://twitter.com/rajveermewara">
-  <img align="left" alt="Rajveer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://github.com/veerraj">
-  <img align="left" alt="Rajveer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://instagram.com/_rajveer_mewara/">
-  <img align="left" alt="Rajveer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/veer.choudhary.12720/">
-  <img align="left" alt="Rajveer's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br/>
-<br/>
 
 
 
@@ -57,7 +37,27 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=veerraj&show_icons=true&theme=light&line_height=27" alt="Rajveer's github stats"/>
 </a>
 
+## follow me at...
+<a href="https://www.linkedin.com/in/rajveer-choudhary-287706178/">
+  <img style="color:skyblue" align="left" alt="Rajveers's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
+<a href="https://twitter.com/rajveermewara">
+  <img align="left" alt="Rajveer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://github.com/veerraj">
+  <img align="left" alt="Rajveer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://instagram.com/_rajveer_mewara/">
+  <img align="left" alt="Rajveer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/veer.choudhary.12720/">
+  <img align="left" alt="Rajveer's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br/>
+<br/>
 <div align="center">
 
 ### Thanks :) 
