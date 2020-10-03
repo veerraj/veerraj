@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open source project.
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about Full stack development(Mean/Mern).
-- 📫 How to reach me: [Twitter - @rajveermewara](https://twitter.com/rajveermewara) , [Linkdin - @Rajveer Choudhary](https://youtube.com/mtechviral)
+- 📫 How to reach me: [Twitter - @rajveermewara](https://twitter.com/rajveermewara) , [Linkdin - @Rajveer Choudhary](https://www.linkedin.com/in/rajveer-choudhary-287706178/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent my most of time to watching web series.
 <br/>
